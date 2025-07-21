@@ -15,4 +15,4 @@ Temperature = a \cdot time^2 + b \cdot time + c
 - ✅ *Multiple set file input*
 
 How to run the program
-python3 weather_model.py
+python3 temperature_model.py
